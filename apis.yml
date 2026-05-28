@@ -1,0 +1,32 @@
+aid: euskalmet
+name: Euskalmet
+description: "Meteorological data of the Basque Country"
+url: https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Weather"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Weather
+  - Public APIs
+apis:
+  - name: Euskalmet
+    description: "Meteorological data of the Basque Country"
+    humanURL: https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/
+    baseURL: https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/
+    tags:
+      - Weather
+    properties:
+      - type: Documentation
+        url: https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/
+common:
+  - type: Website
+    url: https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
