@@ -1,4 +1,16 @@
 aid: euskalmet
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/euskalmet.png
 name: Euskalmet
 description: "Meteorological data of the Basque Country"
 url: https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/
