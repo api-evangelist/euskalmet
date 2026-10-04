@@ -39,7 +39,6 @@ apis:
   - name: Euskalmet
     description: "Meteorological data of the Basque Country"
     humanURL: https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/
-    baseURL: https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/
     tags:
       - Weather
     properties:
